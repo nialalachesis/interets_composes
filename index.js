@@ -100,9 +100,9 @@ let calc = function () {
   console.log("plus-value: " + gain);
 
   document.querySelector("#inv").innerHTML = `
-    ${inv} $`;
+  ${inv} $`;
   document.querySelector("#int").innerHTML = `
-    ${int} $`;
+  ${int} $`;
   document.querySelector("#gain").innerHTML = `
-    ${gain} $`;
+  ${gain} $`;
 };
